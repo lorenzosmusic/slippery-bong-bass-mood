@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<Session version="6000" name="slippery bong bass mood" sample-rate="44100" end-is-free="0" session-range-is-free="0" id-counter="54222" name-counter="1" event-counter="20008" vca-counter="1">
+<Session version="6000" name="slippery bong bass mood" sample-rate="44100" end-is-free="0" session-range-is-free="0" id-counter="54223" name-counter="1" event-counter="20275" vca-counter="1">
   <ProgramVersion created-with="Ardour 1:5.12.0-3ubuntu4.1" modified-with="Ardour 6.9.0~ds0-1build1"/>
   <MIDIPorts>
     <Port name="MIDI Clock out" direction="output"/>
@@ -8575,7 +8575,7 @@ Used Yoshimi with the bass bank sound Bass 3 Analog</Comment>
       <ExportFormat id="e61c1d0f-95bd-48fb-b812-def99dbabe28"/>
       <ExportFilename>
         <Folder relative="1" path="export"/>
-        <Field name="label" enabled="1" value="bass-take-edited"/>
+        <Field name="label" enabled="1" value="bass-taps-n-bg-noise"/>
         <Field name="session" enabled="1"/>
         <Field name="snapshot" enabled="0"/>
         <Field name="timespan" enabled="1"/>
@@ -8644,9 +8644,9 @@ Used Yoshimi with the bass bank sound Bass 3 Analog</Comment>
       <Window name="PM-49832-49955" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
       <Window name="RPM-51064" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
       <Window name="RPM-51634" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
-      <Window name="P-51634-51712" visible="0" x-off="470" y-off="0" x-size="1037" y-size="708" custom-ui="1"/>
+      <Window name="P-51634-51712" visible="0" x-off="321" y-off="326" x-size="1037" y-size="708" custom-ui="1"/>
       <Window name="PM-51634-51712" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
-      <Window name="P-51064-52035" visible="0" x-off="470" y-off="0" x-size="1037" y-size="708" custom-ui="1"/>
+      <Window name="P-51064-52035" visible="0" x-off="321" y-off="326" x-size="1037" y-size="708" custom-ui="1"/>
       <Window name="PM-51064-52035" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
       <GUIObjectState>
         <Object id="rtav 54" height="66" visible="1"/>
